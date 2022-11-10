@@ -101,7 +101,8 @@ img {
 
 .main-page {
     background: #2F303A;
-    padding-bottom: 280px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 h1 {
     font-weight: 900;
@@ -111,7 +112,6 @@ h1 {
     text-align: center;
     color: #FFFFFF;
     text-transform: uppercase;
-    padding-top: 200px;
     margin-bottom: 30px;
 }
 .button {
@@ -135,14 +135,13 @@ h1 {
 }
 
 .benefits {
-    padding-top: 54px;
+    padding-top: 94px;
     padding-bottom: 94px;
 }
 .benefits-list {
     display: flex;
     justify: space-between;
     gap: 30px;
-    margin-bottom: 94px;
 }
 .benefits-list-div {
     width: 270px;
@@ -164,6 +163,7 @@ h3 {
 }
 
 .about {
+    padding-bottom: 94px;
 }
 h2 {
     font-weight: 700;
@@ -188,9 +188,9 @@ h2 {
     display: flex;
     justify: space-between;
     gap: 30px;
+    margin-top: 50px;
 }
 .team-list-item{
-    margin-top: 50px;
     text-align: center;
     background-color: #FFFFFF;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
@@ -225,6 +225,7 @@ h4 {
     margin-bottom: 20px;
 }
 .address{
+    margin-top: 20px;
 }
 .footer-list {
 }
